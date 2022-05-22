@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Creator</key>
+	<string></string>
+	<key>SandwichFillings</key>
+	<array>
+		<dict>
+			<key>Dictionary</key>
+			<dict>
+				<key>FlashSlideshowSettings</key>
+				<dict>
+					<key>FlickRSSEnabled</key>
+					<false/>
+					<key>ImageHeight</key>
+					<integer>320</integer>
+					<key>ImageScalingMode</key>
+					<integer>1</integer>
+					<key>ImageWidth</key>
+					<integer>460</integer>
+					<key>KenBurnsEffectSpeed</key>
+					<real>3</real>
+					<key>KenBurnsEffectType</key>
+					<integer>4</integer>
+					<key>ShowCaptions</key>
+					<false/>
+					<key>ShowControls</key>
+					<true/>
+					<key>ShowProgressIconWhileLoading</key>
+					<true/>
+					<key>TransitionPauseTime</key>
+					<real>3</real>
+					<key>TransitionSpeed</key>
+					<real>1</real>
+					<key>TransitionType</key>
+					<integer>14</integer>
+				</dict>
+				<key>HTMLSlideshowSettings</key>
+				<dict>
+					<key>CaptionsDisplayMode</key>
+					<integer>1</integer>
+					<key>EXIFTagsShown</key>
+					<array>
+						<string>ExposureTime</string>
+						<string>ISOSpeedRatings</string>
+						<string>ShutterSpeedValue</string>
+						<string>ApertureValue</string>
+						<string>MakerNote</string>
+						<string>UserComment</string>
+						<string>PixelXDimension</string>
+						<string>PixelYDimension</string>
+						<string>ImageUniqueID</string>
+					</array>
+					<key>ImageExportQuality</key>
+					<integer>1</integer>
+					<key>ImageExportScalingEnabled</key>
+					<true/>
+					<key>ImageExportScalingHeight</key>
+					<integer>6000</integer>
+					<key>ImageExportScalingWidth</key>
+					<integer>640</integer>
+					<key>ImageExportUsesHighQualityScaling</key>
+					<true/>
+					<key>NavigationHomeLinkText</key>
+					<string>Home</string>
+					<key>NavigationHomeLinkTextDerivedFromPageTitle</key>
+					<false/>
+					<key>NavigationNextLinkText</key>
+					<string>Next</string>
+					<key>NavigationPreviousLinkText</key>
+					<string>Previous</string>
+					<key>ShowEXIFTags</key>
+					<false/>
+					<key>ShowMissingEXIFTags</key>
+					<false/>
+					<key>ThumbnailScaleFactor</key>
+					<real>1.2124999761581421</real>
+					<key>ThumbnailsAreSquare</key>
+					<true/>
+				</dict>
+				<key>PhotoData</key>
+				<dict>
+					<key>CustomAlbum</key>
+					<dict>
+						<key>Description</key>
+						<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin et tellus sed odio interdum consectetur. Sed odio turpis, commodo ut justo non, dignissim convallis tortor. In hac habitasse platea dictumst. Duis sit amet sem nisi. Integer vitae sagittis. </string>
+						<key>Images</key>
+						<array>
+							<dict>
+								<key>UUID</key>
+								<string>1721FD61-3BBA-4762-AF5D-64040614553A</string>
+								<key>caption</key>
+								<string>alex-siale-95113-unsplash.jpg</string>
+								<key>comment</key>
+								<string>Green mountains</string>
+								<key>enabled</key>
+								<true/>
+								<key>filename</key>
+								<string>alex-siale-95113-unsplash.jpg</string>
+								<key>originalPath</key>
+								<string>/Users/ben/Code/rapidweaver-themes/Example Projects/gallery/mountains/small/alex-siale-95113-unsplash.jpg</string>
+							</dict>
+							<dict>
+								<key>UUID</key>
+								<string>666051E4-48C5-40EB-BFA2-0681C6CDE9A6</string>
+								<key>caption</key>
+								<string>johannes-ludwig-348591-unsplash.jpg</string>
+								<key>comment</key>
+								<string>Lovely lake</string>
+								<key>enabled</key>
+								<true/>
+								<key>filename</key>
+								<string>johannes-ludwig-348591-unsplash.jpg</string>
+								<key>originalPath</key>
+								<string>/Users/ben/Code/rapidweaver-themes/Example Projects/gallery/mountains/small/johannes-ludwig-348591-unsplash.jpg</string>
+							</dict>
+							<dict>
+								<key>UUID</key>
+								<string>54B70241-D712-428D-9089-813B6BE91B0E</string>
+								<key>caption</key>
+								<string>johny-goerend-402630-unsplash.jpg</string>
+								<key>comment</key>
+								<string>Beautiful sunset</string>
+								<key>enabled</key>
+								<true/>
+								<key>filename</key>
+								<string>johny-goerend-402630-unsplash.jpg</string>
+								<key>originalPath</key>
+								<string>/Users/ben/Code/rapidweaver-themes/Example Projects/gallery/mountains/small/johny-goerend-402630-unsplash.jpg</string>
+							</dict>
+							<dict>
+								<key>UUID</key>
+								<string>6F0DA673-FA15-4248-BCF8-D2400EC35F82</string>
+								<key>caption</key>
+								<string>luca-bravo-134059-unsplash.jpg</string>
+								<key>comment</key>
+								<string>Foggy lake</string>
+								<key>enabled</key>
+								<true/>
+								<key>filename</key>
+								<string>luca-bravo-134059-unsplash.jpg</string>
+								<key>originalPath</key>
+								<string>/Users/ben/Code/rapidweaver-themes/Example Projects/gallery/mountains/small/luca-bravo-134059-unsplash.jpg</string>
+							</dict>
+							<dict>
+								<key>UUID</key>
+								<string>9F23B0E0-E93E-4C10-A479-C887CFA3DB16</string>
+								<key>caption</key>
+								<string>matthias-mullie-208395-unsplash.jpg</string>
+								<key>comment</key>
+								<string>Mountain sunset</string>
+								<key>enabled</key>
+								<true/>
+								<key>filename</key>
+								<string>matthias-mullie-208395-unsplash.jpg</string>
+								<key>originalPath</key>
+								<string>/Users/ben/Code/rapidweaver-themes/Example Projects/gallery/mountains/small/matthias-mullie-208395-unsplash.jpg</string>
+							</dict>
+							<dict>
+								<key>UUID</key>
+								<string>C4CEE348-6F9C-4126-8D79-C0748F469C73</string>
+								<key>caption</key>
+								<string>paul-gilmore-94190-unsplash.jpg</string>
+								<key>comment</key>
+								<string>Blue sky and clouds</string>
+								<key>enabled</key>
+								<true/>
+								<key>filename</key>
+								<string>paul-gilmore-94190-unsplash.jpg</string>
+								<key>originalPath</key>
+								<string>/Users/ben/Code/rapidweaver-themes/Example Projects/gallery/mountains/small/paul-gilmore-94190-unsplash.jpg</string>
+							</dict>
+							<dict>
+								<key>UUID</key>
+								<string>ABE17F5D-5A58-4D60-8040-98C84B73755E</string>
+								<key>caption</key>
+								<string>rodrigo-soares-240433-unsplash.jpg</string>
+								<key>comment</key>
+								<string>Amazing lake</string>
+								<key>enabled</key>
+								<true/>
+								<key>filename</key>
+								<string>rodrigo-soares-240433-unsplash.jpg</string>
+								<key>originalPath</key>
+								<string>/Users/ben/Code/rapidweaver-themes/Example Projects/gallery/mountains/small/rodrigo-soares-240433-unsplash.jpg</string>
+							</dict>
+							<dict>
+								<key>UUID</key>
+								<string>79E7B803-EF85-4EAD-A50C-72D7F04BD23A</string>
+								<key>caption</key>
+								<string>simon-fitall-533515-unsplash.jpg</string>
+								<key>comment</key>
+								<string>High up!</string>
+								<key>enabled</key>
+								<true/>
+								<key>filename</key>
+								<string>simon-fitall-533515-unsplash.jpg</string>
+								<key>originalPath</key>
+								<string>/Users/ben/Code/rapidweaver-themes/Example Projects/gallery/mountains/small/simon-fitall-533515-unsplash.jpg</string>
+							</dict>
+						</array>
+						<key>Name</key>
+						<string>Beautiful Mountains</string>
+					</dict>
+				</dict>
+				<key>SlideshowMode</key>
+				<integer>0</integer>
+				<key>SortOrder</key>
+				<integer>0</integer>
+			</dict>
+			<key>Files</key>
+			<array>
+				<string>1721FD61-3BBA-4762-AF5D-64040614553A</string>
+				<string>54B70241-D712-428D-9089-813B6BE91B0E</string>
+				<string>666051E4-48C5-40EB-BFA2-0681C6CDE9A6</string>
+				<string>6F0DA673-FA15-4248-BCF8-D2400EC35F82</string>
+				<string>79E7B803-EF85-4EAD-A50C-72D7F04BD23A</string>
+				<string>9F23B0E0-E93E-4C10-A479-C887CFA3DB16</string>
+				<string>ABE17F5D-5A58-4D60-8040-98C84B73755E</string>
+				<string>C4CEE348-6F9C-4126-8D79-C0748F469C73</string>
+			</array>
+			<key>Subsandwiches</key>
+			<array/>
+		</dict>
+	</array>
+	<key>Type</key>
+	<string>RapidWeaver Photo Album Data</string>
+</dict>
+</plist>
